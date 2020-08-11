@@ -3,7 +3,7 @@ import './Game.css';
 import Monster from './Monster';
 import PlayerList from './PlayerList';
 
-const App = () => {
+const App = () => (
 
   <div className="App">
     <Monster />
@@ -12,6 +12,6 @@ const App = () => {
       <PlayerList />
     </section >
   </div>
-}
+)
 
 export default App;
