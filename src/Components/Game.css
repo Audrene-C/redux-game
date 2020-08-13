@@ -605,5 +605,7 @@ display: none;
 overflow: visible;
 }
 
-
+.hasPlayed {
+  filter: brightness(60%);
+}
 

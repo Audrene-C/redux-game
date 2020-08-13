@@ -12,7 +12,6 @@ const Monster = () => {
         <div className="row">
           <div className="card-monstre col-sm-12">
             <div id="monsterCard">
-              <p>{monster.name}</p>
               <div className="text-center">
                 <div className="row">
                   <div className="col-sm-2 offset-sm-3">
